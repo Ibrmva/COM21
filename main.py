@@ -18,10 +18,10 @@ class Edit(tk.Tk):
     def __init__(self):
         tk.Tk.__init__(self)
         self.splash_frame = None
-        
+
         self.configure(background="grey")
 
-        window_width, window_height = 500, 320
+        window_width, window_height = 580, 580
         screen_width, screen_height = self.winfo_screenwidth(), self.winfo_screenheight()
 
         x_co = int(screen_width / 2 - window_width / 2)
