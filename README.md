@@ -27,7 +27,7 @@ For example:
 ###If you chose 'Draw', you can change pencil size and you can choose any colors:
 ![Draw](https://user-images.githubusercontent.com/90143818/170869777-7e450bb5-7de9-4596-9377-9aaaf58c85f6.png) And you can choose 'Save' or 'Reset'.
 if you chose 'Save', you will see:
-![Draw](https://user-images.githubusercontent.com/90143818/170870052-0af1167a-e754-4b58-b050-13f853a492c5.png)
+![Draw Save](https://user-images.githubusercontent.com/90143818/170870477-ebc9f3a8-0e51-4f64-8836-59459f37ae3c.png)
 ###If you chose 'Crop', you will see:
 ![Crop](https://user-images.githubusercontent.com/90143818/170870244-6cc6c4cb-1ccf-493c-b581-f5e6d58764a8.png)
 After you can seve:
