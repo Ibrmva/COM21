@@ -45,7 +45,7 @@
 ![rotate](https://user-images.githubusercontent.com/90143818/170879598-5ec1a202-0692-4e35-9f87-2ca5bdcfbe98.png)
 
 ### *And the bottom buttons work too* ###
-# _OTHERS BUTTONS:_ 
+# _OTHER BUTTONS:_ 
 + Exit
 + Return
 + Open Image
