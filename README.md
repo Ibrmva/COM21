@@ -41,13 +41,22 @@
 ![Crop2](https://user-images.githubusercontent.com/90143818/170870316-cc7ccceb-7e73-4b39-b3fe-8a7ae9c879c7.png)
 ### *RESULT:* ###
 ![Crop](https://user-images.githubusercontent.com/90143818/170878396-02ef55f1-ff1f-4a49-b959-5158235c1155.png)
+### *"ROTATE" - you can rotate photos* ### 
+![rotate](https://user-images.githubusercontent.com/90143818/170879598-5ec1a202-0692-4e35-9f87-2ca5bdcfbe98.png)
 
-
+### *And the bottom buttons work too* ###
 # _OTHERS BUTTONS:_ 
 + Exit
 + Return
 + Open Image*
-
++ Save
++ Cancel
++ Delete
++ Right
++ Left
++ Rotate
++ Mirror
++ 
 ### _I thought that it will be easy, but it turned out to be a little more difficult.  I didn't sleep for 2 days. ^-^_ ###
 
 
