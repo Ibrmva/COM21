@@ -26,7 +26,7 @@
 ![Filters-Grey](https://user-images.githubusercontent.com/90143818/170878270-189a637b-6a9c-485e-958e-b9a230c5a548.png)
 ![Filters-Gaussian Blur](https://user-images.githubusercontent.com/90143818/170878284-8a1c7194-d179-4158-a11f-0731e41dbf41.png)
 ### *Than you can choose "Apply" or "Cancel"* ###
-### *If you chose "Apply", but you want to return original photo, you can "Reset". "Reset" can return original photo.*### 
+### *If you chose "Apply", but you want to return original photo, you can "Reset". "Reset" can return original photo.* ### 
 ### *If you chose 'Adjust', you can change: Contrast, Sharpness, Brightness.* ###
 ### *For example:* ###
 ![Adjust-Adjustments](https://user-images.githubusercontent.com/90143818/170878323-5d4eefcf-d6ac-422f-9e25-ecadf7938208.png)
