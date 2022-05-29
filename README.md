@@ -31,7 +31,8 @@
 ### *For example:* ###
 ![Adjust-Adjustments](https://user-images.githubusercontent.com/90143818/170878323-5d4eefcf-d6ac-422f-9e25-ecadf7938208.png)
 ### *If you chose 'Draw', you can change pencil size and you can choose any colors:* ###
-![Draw](https://user-images.githubusercontent.com/90143818/170869777-7e450bb5-7de9-4596-9377-9aaaf58c85f6.png) *And you can choose 'Save' or 'Reset'.*
+![Draw](https://user-images.githubusercontent.com/90143818/170869777-7e450bb5-7de9-4596-9377-9aaaf58c85f6.png) 
+### *And you can choose 'Save' or 'Reset'.* ###
 ### *if you chose 'Save', you will see:* ###
 ![Draw Save](https://user-images.githubusercontent.com/90143818/170870477-ebc9f3a8-0e51-4f64-8836-59459f37ae3c.png)
 ### *If you chose 'Crop', you will see:* ###
