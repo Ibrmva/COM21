@@ -48,7 +48,7 @@
 # _OTHERS BUTTONS:_ 
 + Exit
 + Return
-+ Open Image*
++ Open Image
 + Save
 + Cancel
 + Delete
