@@ -1,2 +1,2 @@
 # COM21
-![Loading](https://user-images.githubusercontent.com/90143818/170867239-1d5b862d-1f12-458a-a60d-0987ca0c68e8.png)
+![Loading](https://user-images.githubusercontent.com/90143818/170867316-e3a8e881-2b47-4589-a055-2359baba0894.png)
