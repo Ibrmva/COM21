@@ -6,7 +6,9 @@
 ### *logo of AIU (Ala-Too International University)* ###
 ### *You can choose "SELECT A FILE" or "ABOUT ALA-TOO"* ###
 ![1page](https://user-images.githubusercontent.com/90143818/170867492-2f8e1806-a15b-4efb-b945-5d3e34d0fbd4.png)
-
+### *If you chose "ABOUT ALA-TOO"* ###
+### *You will see:* ###
+![image](https://user-images.githubusercontent.com/90143818/170873024-2076b52a-ba2e-4c49-be1f-46ff50269391.png)
 ### *If you chose "SELECTT A FILE", you can see:* ###
 ![SELECT A FILE - file(s) picker button](https://user-images.githubusercontent.com/90143818/170867888-7ab5839e-797c-44ca-a524-74d5ff0d6f78.png)
 ### *You can choose any files.* ###
