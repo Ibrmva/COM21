@@ -35,6 +35,7 @@ After you can seve:
 RESULT:
 ![Crop result](https://user-images.githubusercontent.com/90143818/170870376-d97d2a19-ef8a-4703-b475-c5074e5b179c.png)
 
+OTHERS BUTTONS: Exit, Return, Open Image
 
 
 
