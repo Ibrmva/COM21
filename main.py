@@ -18,7 +18,7 @@ class Edit(tk.Tk):
     def __init__(self):
         tk.Tk.__init__(self)
         self.splash_frame = None
-
+        
         self.configure(background="grey")
 
         window_width, window_height = 500, 320
@@ -37,10 +37,6 @@ class Edit(tk.Tk):
         self.splash_frame.pack(fill="both", expand=True)
 
         self.image_editor_window = tk.Frame(self)
-
-
-
-
 
         wallpaper = Image.open('c:\\Users\\User\\OneDrive\\PycharmProjects\\pythonProject\\logo.jpg')
         wallpaper = wallpaper.resize((window_width, window_height - 30), Image.ANTIALIAS)
@@ -78,7 +74,7 @@ class Edit(tk.Tk):
         self.modified_img = None
         self.image_copy = None
         self.rect = None
-        self.event_x = self.event_y = None  # to store the bottom right corner's coordinates(for cropping)
+        self.event_x = self.event_y = None
         self.rectangles = []
         self.point_x = self.point_y = None
         self.image_x_co = self.image_y_co = None
@@ -208,9 +204,17 @@ class Edit(tk.Tk):
         exit_window = tk.Button(self.image_editor_window, image=power_off_icon, compound="left",
                                 text="Exit", font="lucida 9 bold", foreground='white', background="black",
                                 command=self.exit_window, padx=12, cursor="hand2")
+
         exit_window.bind("<Enter>", lambda e: mouse_hover(exit_window))
         exit_window.bind("<Leave>", lambda e: mouse_not_hover(exit_window))
         exit_window.place(x=1418, y=640)
+
+        return_window = tk.Button(self.image_editor_window, image=power_off_icon, compound="left",
+                                  text="Return", font="lucida 9 bold", foreground='white', background="black",
+                                  command=self.return_window, padx=12, cursor="hand2")
+        return_window.bind("<Enter>", lambda e: mouse_hover(return_window))
+        return_window.bind("<Leave>", lambda e: mouse_not_hover(return_window))
+        return_window.place(x=1418, y=600)
 
         self.side_frame = tk.Frame(self.image_editor_window, background="black")
 
@@ -278,9 +282,11 @@ class Edit(tk.Tk):
         self.open_image_button.bind("<Leave>", lambda e: mouse_not_hover(self.open_image_button))
         self.open_image_button.place(x=685, y=350)
 
-        self.txtLabel_button = tk.Button(self.image_editor_window,  cursor="hand2", command=self.open_image,
+        self.txtLabel_button = tk.Button(self.image_editor_window, cursor="hand2",
+                                           command=self.ala_too,
                                            compound='top', text="ABOUT ALA-TOO",
                                            font="lucida 12 bold", foreground="white", bd=0, background="grey", )
+
 
         self.txtLabel_button.bind("<Enter>", lambda e: mouse_hover(self.txtLabel_button, color='#1c1c1b'))
         self.txtLabel_button.bind("<Leave>", lambda e: mouse_not_hover(self.txtLabel_button))
@@ -336,6 +342,24 @@ class Edit(tk.Tk):
         color = colorchooser.askcolor(initialcolor='red')
         if color[0]:
             self.pencil_color = color[1]
+
+    def ala_too(self):
+
+        tk.Label(text='''Ala-Too International University.
+                                    The state governing body of the university is the Ministry of Education and Science of 
+                                    the Kyrgyz Republic.
+                                    The founder of Ala-Too International University is Sapat International 
+                                    Educational Institutions.
+                                    Ala-Too International University (AIU) was established in 1996 and it is located in Bishkek, 
+                                    the Kyrgyz Republic.
+                                    AIU is a legal entity, carries out its activities in accordance with the legislation of the 
+                                    Kyrgyz Republic.
+                                    ''').pack()
+        self.txtLabel_button.pack()
+
+
+
+
 
 
     def open_image(self):
@@ -541,7 +565,6 @@ class Edit(tk.Tk):
     def activate_crop(self):
         if self.original_image and not self.error:
 
-            # to deactivate draw when we switch from draw to crop as we don't want both to be active at the same time
             if self.draw_active:
                 self.activate_draw()
 
@@ -709,6 +732,10 @@ class Edit(tk.Tk):
 
     def exit_window(self):
         self.destroy()
+
+    def return_window(self, master):
+        command = lambda: master.switch_frame(tk.Tk)
+
 
 
 def mouse_not_hover(button, color=None):
@@ -1039,6 +1066,7 @@ class Filters(tk.Toplevel):
         im = ImageTk.PhotoImage(self.parent.image_copy_resized)
         self.parent.show_image(modified=im)
         self.destroy()
+
 
 
 
