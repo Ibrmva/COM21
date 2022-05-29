@@ -5,28 +5,31 @@
 ![Loading](https://user-images.githubusercontent.com/90143818/170867316-e3a8e881-2b47-4589-a055-2359baba0894.png)
 ### *logo of AIU (Ala-Too International University)* ###
 ### *You can choose "SELECT A FILE" or "ABOUT ALA-TOO"* ###
-![1page](https://user-images.githubusercontent.com/90143818/170867492-2f8e1806-a15b-4efb-b945-5d3e34d0fbd4.png)
+![page1](https://user-images.githubusercontent.com/90143818/170878073-2f7c991e-2d60-437f-986d-dd0b6caf79d9.png)
 ### *If you chose "ABOUT ALA-TOO"* ###
 ### *You will see:* ###
-![image](https://user-images.githubusercontent.com/90143818/170873024-2076b52a-ba2e-4c49-be1f-46ff50269391.png)
+![ABOUT ALA-TOO](https://user-images.githubusercontent.com/90143818/170878090-90b708a9-57c0-49e0-8119-1a5ac2b72ec8.png)
+
 ### *If you chose "SELECTT A FILE", you can see:* ###
-![SELECT A FILE - file(s) picker button](https://user-images.githubusercontent.com/90143818/170867888-7ab5839e-797c-44ca-a524-74d5ff0d6f78.png)
+![SELECT A FILE - file(s) picker button](https://user-images.githubusercontent.com/90143818/170878105-35a8a158-ee44-495a-89bc-5be459a57f68.png)
+
 ### *You can choose any files.* ###
 ### *After you see:* ###
-![batch processing button](https://user-images.githubusercontent.com/90143818/170868487-69263e35-4cb9-4361-a61a-e2999391a437.png)
+![batch processing button](https://user-images.githubusercontent.com/90143818/170878190-c7e6cf2f-fb7b-4e74-8717-6079188dd9f7.png)
+
 ### *You can choose: Adjus, Filters, Reset, Draw, Crop* ###
 ### *other buttons: Exit, Return, Save, Open Image* ###
 ### *If you choose 'Filters' -> 'Negative', 'Emboss', 'Grey'or 'Gaussian Blurs* ###
 ### *you will see:* ###
-![Filters -Negative](https://user-images.githubusercontent.com/90143818/170868797-0a6677a5-ba30-4ea9-9196-da31dc818d41.png)
-![Filters-Emboss](https://user-images.githubusercontent.com/90143818/170868946-91bf550a-0245-49d9-86f0-09023af53012.png)
-![Filters-Grey](https://user-images.githubusercontent.com/90143818/170869035-dc418bab-f8d5-4b9b-a453-5e78c1273a0f.png)
-![Filters-Gaussian Blur](https://user-images.githubusercontent.com/90143818/170869111-257bb1d7-9c94-420b-bbf9-d64cd6b9ca99.png)
+![Filters -Negative](https://user-images.githubusercontent.com/90143818/170878216-8c64edf3-7870-41df-83bd-55a8b28942d8.png)
+![Filters-Emboss](https://user-images.githubusercontent.com/90143818/170878250-3a8134ce-757a-4580-88bd-340a68d9d6ca.png)
+![Filters-Grey](https://user-images.githubusercontent.com/90143818/170878270-189a637b-6a9c-485e-958e-b9a230c5a548.png)
+![Filters-Gaussian Blur](https://user-images.githubusercontent.com/90143818/170878284-8a1c7194-d179-4158-a11f-0731e41dbf41.png)
 ### *Than you can choose "Apply" or "Cancel"* ###
 ### *If you chose "Apply", but you want to return original photo, you can "Reset". "Reset" can return original photo.*### 
 ### *If you chose 'Adjust', you can change: Contrast, Sharpness, Brightness.* ###
 ### *For example:* ###
-![Adjust-Adjustments](https://user-images.githubusercontent.com/90143818/170869496-fd1a6bf6-3a9a-4957-88b1-c70517d94bb4.png)
+![Adjust-Adjustments](https://user-images.githubusercontent.com/90143818/170878323-5d4eefcf-d6ac-422f-9e25-ecadf7938208.png)
 ### *If you chose 'Draw', you can change pencil size and you can choose any colors:* ###
 ![Draw](https://user-images.githubusercontent.com/90143818/170869777-7e450bb5-7de9-4596-9377-9aaaf58c85f6.png) *And you can choose 'Save' or 'Reset'.*
 ### *if you chose 'Save', you will see:* ###
@@ -36,7 +39,8 @@
 ### *After you can seve:* ###
 ![Crop2](https://user-images.githubusercontent.com/90143818/170870316-cc7ccceb-7e73-4b39-b3fe-8a7ae9c879c7.png)
 ### *RESULT:* ###
-![Crop result](https://user-images.githubusercontent.com/90143818/170870376-d97d2a19-ef8a-4703-b475-c5074e5b179c.png)
+![Crop](https://user-images.githubusercontent.com/90143818/170878396-02ef55f1-ff1f-4a49-b959-5158235c1155.png)
+
 
 # _OTHERS BUTTONS:_ 
 + Exit
