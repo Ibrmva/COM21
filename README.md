@@ -43,6 +43,6 @@
 + Return
 + Open Image*
 
-### _I thought it was easy, but it turned out to be a little more difficult.  I didn't sleep for 2 days. ^-^_ ###
+### _I thought that it will be easy, but it turned out to be a little more difficult.  I didn't sleep for 2 days. ^-^_ ###
 
 
