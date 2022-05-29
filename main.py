@@ -86,19 +86,19 @@ class Edit(tk.Tk):
         self.degree = 90
         self.error = None
 
-        flip_icon = Image.open('c:\\Users\\User\\OneDrive\\PycharmProjects\\pythonProject\\logo.jpg')
+        flip_icon = Image.open('c:\\Users\\User\\OneDrive\\PycharmProjects\\pythonProject\\flip.png')
         flip_icon = flip_icon.resize((25, 25), Image.ANTIALIAS)
         flip_icon = ImageTk.PhotoImage(flip_icon)
 
-        rotate_icon = Image.open('c:\\Users\\User\\OneDrive\\PycharmProjects\\pythonProject\\logo.jpg')
+        rotate_icon = Image.open('c:\\Users\\User\\OneDrive\\PycharmProjects\\pythonProject\\rotate.png')
         rotate_icon = rotate_icon.resize((25, 25), Image.ANTIALIAS)
         rotate_icon = ImageTk.PhotoImage(rotate_icon)
 
-        next_icon = Image.open('c:\\Users\\User\\OneDrive\\PycharmProjects\\pythonProject\\logo.jpg')
+        next_icon = Image.open('c:\\Users\\User\\OneDrive\\PycharmProjects\\pythonProject\\right.png')
         next_icon = next_icon.resize((25, 25), Image.ANTIALIAS)
         next_icon = ImageTk.PhotoImage(next_icon)
 
-        previous_icon = Image.open('c:\\Users\\User\\OneDrive\\PycharmProjects\\pythonProject\\logo.jpg')
+        previous_icon = Image.open('c:\\Users\\User\\OneDrive\\PycharmProjects\\pythonProject\\left.png')
         previous_icon = previous_icon.resize((25, 25), Image.ANTIALIAS)
         previous_icon = ImageTk.PhotoImage(previous_icon)
 
@@ -114,7 +114,7 @@ class Edit(tk.Tk):
         save_icon = save_icon.resize((25, 25), Image.ANTIALIAS)
         save_icon = ImageTk.PhotoImage(save_icon)
 
-        delete_icon = Image.open('c:\\Users\\User\\OneDrive\\PycharmProjects\\pythonProject\\logo.jpg')
+        delete_icon = Image.open('c:\\Users\\User\\OneDrive\\PycharmProjects\\pythonProject\\delete.png')
         delete_icon = delete_icon.resize((25, 25), Image.ANTIALIAS)
         delete_icon = ImageTk.PhotoImage(delete_icon)
 
