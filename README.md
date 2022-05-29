@@ -11,8 +11,8 @@
 ### *After you see:* ###
 ![batch processing button](https://user-images.githubusercontent.com/90143818/170868487-69263e35-4cb9-4361-a61a-e2999391a437.png)
 ### *You can choose:* ###
-+Adjust
-+Filters, Reset, Crop, Draw
++ Adjust
++ Filters, Reset, Crop, Draw
 other buttons: Exit, Return, Save, Open Image
 ### *If you choose 'Filters' -> 'Negative', 'Emboss', 'Grey'or 'Gaussian Blurs' *###
 ### *you will see: *###
