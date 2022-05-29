@@ -56,7 +56,7 @@
 + Left
 + Rotate
 + Mirror
-+ 
+
 ### _I thought that it will be easy, but it turned out to be a little more difficult.  I didn't sleep for 2 days. ^-^_ ###
 
 
