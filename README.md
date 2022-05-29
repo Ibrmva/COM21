@@ -16,15 +16,15 @@
 ![batch processing button](https://user-images.githubusercontent.com/90143818/170868487-69263e35-4cb9-4361-a61a-e2999391a437.png)
 ### *You can choose: Adjus, Filters, Reset, Draw, Crop* ###
 ### *other buttons: Exit, Return, Save, Open Image* ###
-### *If you choose 'Filters' -> 'Negative', 'Emboss', 'Grey'or 'Gaussian Blurs' *###
-### *you will see: *###
+### *If you choose 'Filters' -> 'Negative', 'Emboss', 'Grey'or 'Gaussian Blurs* ###
+### *you will see:* ###
 ![Filters -Negative](https://user-images.githubusercontent.com/90143818/170868797-0a6677a5-ba30-4ea9-9196-da31dc818d41.png)
 ![Filters-Emboss](https://user-images.githubusercontent.com/90143818/170868946-91bf550a-0245-49d9-86f0-09023af53012.png)
 ![Filters-Grey](https://user-images.githubusercontent.com/90143818/170869035-dc418bab-f8d5-4b9b-a453-5e78c1273a0f.png)
 ![Filters-Gaussian Blur](https://user-images.githubusercontent.com/90143818/170869111-257bb1d7-9c94-420b-bbf9-d64cd6b9ca99.png)
 ### *Than you can choose "Apply" or "Cancel"* ###
 ### *If you chose "Apply", but you want to return original photo, you can "Reset". "Reset" can return original photo.*### 
-### If you chose 'Adjust', you can change: Contrast, Sharpness, Brightness.
+### *If you chose 'Adjust', you can change: Contrast, Sharpness, Brightness.* ###
 ### *For example:* ###
 ![Adjust-Adjustments](https://user-images.githubusercontent.com/90143818/170869496-fd1a6bf6-3a9a-4957-88b1-c70517d94bb4.png)
 ### *If you chose 'Draw', you can change pencil size and you can choose any colors:* ###
