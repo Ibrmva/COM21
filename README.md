@@ -1,4 +1,5 @@
 # *_COM21_*
+### WELCOME! ###
 ### *This is "Loading" page* ###
 ![Loading](https://user-images.githubusercontent.com/90143818/170867316-e3a8e881-2b47-4589-a055-2359baba0894.png)
 ### *logo of AIU (Ala-Too International University)* ###
@@ -39,6 +40,6 @@
 + Return
 + Open Image*
 
-
+### _I thought it was easy, but it turned out to be a little more difficult.  I didn't sleep for 2 days. ^-^_ ###
 
 
