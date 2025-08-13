@@ -1,4 +1,4 @@
-# *_COM21_*
+# *_Editor_*
 ### WELCOME! ###
 ### There are pictures in the "instagram" section, you can use them as a test. (If you don't have pictures on your computer) ###
 ### *This is "Loading" page* ###
